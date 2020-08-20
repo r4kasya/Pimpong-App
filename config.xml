@@ -1,0 +1,35 @@
+<?xml version=’1.0′ encoding=’utf-8′?>
+
+<widget id=”com.thaalakaz.CordovaAPI”
+
+version=”0.0.1″
+
+xmlns=”http://www.w3.org/ns/widgets“
+
+xmlns:cdv=”http://cordova.apache.org/ns/1.0“
+
+xmlns:gap   = ” http://phonegap.com/ns/1.0 “>
+
+<name>Pimpong game</name>
+
+<description>
+
+Permainan Pimpong dengan computer
+
+</description>
+
+<author email=”rakasyaabasisyakur@gmail.com” href=”http://vendacollection.com”&gt;
+
+Rakasya abasi SYakur
+
+</author>
+
+<content src=”index.html” />
+
+<icon scr="icon.png" />
+
+<access origin=”*” />
+
+<gap:plugin name=”org.apache.cordova.camera” version=”0.2.3″ />
+
+</widget>
