@@ -12,9 +12,8 @@
   <description>
       Permainan pimpong melawan komputer.
   </description>
-
+ <icon src="icon.png" />
   <author href="https://vendacollection.com" email="rakasyaabasisyakur@gmail.com">
       Rakasya Abasi Syakur
   </author>
-<icon scr="icon.png" />
 </widget>
